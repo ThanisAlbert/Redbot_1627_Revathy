@@ -1,0 +1,1247 @@
+TAX INVOICE 00104711                                                                                                                                  Page 1 of 1
+VAT #: 100245109200003
+          INVOICE DATE 04-Mar-24                                                                 REDINGTON GULF FZE (IT AFRICA)
+           CUSTOMER ID REDGULDXB10                                                               ATTENTION: THE ACCOUNTS PAYABLE MANAGER
+                SHIPMENT S00124224
+                                                                                                 507, 5TH FLOOR, ATTRIUM CENTRE
+                                                                                                 BUR DUBAI
+           CLIENT VAT # 100245109200003
+                DUE DATE 03-Apr-24
+                     TERMS 30 days from Inv. Date
+
+CONSIGNOR                                                                                        CONSIGNEE
+KERRY LOGISTICS                                                                                  MST-RIDE B.V
+IMPORT CUSTOMS BROKER                                           WEIGHT                           VOLUME                    CHARGEABLE          PACKAGES
+                                                                3613.000 KG                      28.032 M3                 4672.000 KG         16 PLT
+ORDER NUMBERS / OWNER'S REFERENCE
+7080054308
+                                                                                                 MAWB                                 HAWB
+                                                                                                                                      7080054308
+ORIGIN                                                                  ETD                      DESTINATION                                        ETA
+NLAMS = Amsterdam, Netherlands                                                                   NLAMS = Amsterdam, Netherlands
+INCOTERM                                                                                         ADDITIONAL TERMS
+
+
+CHARGES
+DESCRIPTION                                                                                                                   VAT IN AED           CHARGES IN AED
+EXW-0.35/KGS X 4,672.0000                                                                                                Not Applicable                   6,606.21
+
+BASIC-EUR 7                                                                                                              Not Applicable                    303.00
+HANDLING EUR 75                                                                                                          Not Applicable                    303.00
+
+CUSTOMS CLEARANCE CHARGE EUR 35.000 / SHP X                                                                              Not Applicable                    141.40
+1.0000
+
+
+
+
+TOTAL CHARGES
+Note: Please contact us within 7 days should there be any discrepancies
+Cheque's to be issued in favor of Proconnect Supply Chain Logistics LLC
+                                                                                                                          SUBTOTAL                        7,353.61
+"Unless otherwise stated, you shall be deemed to have been accepted to our general terms and conditions in our website
+https://proconnectlogistics.com/terms-and-conditions/, which shall form part of this document."
+                                                                                                                                VAT                           0.00
+*** This is a system generated invoice, hence no signature required ***
+                                                                                                                          TOTAL AED                   7,353.61
+
+       CUSTOMER ID REDGULDXB10                                              Invoiced                  AED 7,353.61             BALANCE DUE            AED 7,353.61
+  PAYMENT METHOD                                                                                                                  DUE DATE               03-Apr-24
+Transfer Funds To:                                                                               Address:
+       Bank EMIRATES NBD                              SWIFT EBILAEAD                             PROCONNECT SUPPLY CHAIN LOGISTICS LLC - JAFZA
+                                                                                                 PLOT NO. S 30902, JEBEL ALI FREE ZONE SOUTH
+  Account AE140260001015258474901                                                                DUBAI, P.O. BOX 262674
+EMIRATES NBD AED ACCOUNT                                                                         UNITED ARAB EMIRATES
+P O BOX 2923, DUBAI , UAE
+CHEQUE PAYABLE IN FAVOR OF " PROCONNECT SUPPLY
+CHAIN LOGISTICS LLC"
+
+   Pay Ref REDGULDXB10 00104711
+
+Issued by: Manoj S
+TAX INVOICE 00104719                                                                                                                                    Page 1 of 1
+VAT #: 100245109200003
+          INVOICE DATE 04-Mar-24                                                                 REDINGTON GULF FZE (IT AFRICA)
+           CUSTOMER ID REDGULDXB10                                                               ATTENTION: THE ACCOUNTS PAYABLE MANAGER
+                SHIPMENT S00123714
+                                                                                                 507, 5TH FLOOR, ATTRIUM CENTRE
+                                                                                                 BUR DUBAI
+           CLIENT VAT # 100245109200003
+                DUE DATE 03-Apr-24
+                     TERMS 30 days from Inv. Date
+
+CONSIGNOR                                                                                        CONSIGNEE
+SANDISK INTERNATIONAL MIDDLE EAST FZE                                                            REDINGTON SOUTH AFRICA DIST PTY LTD
+IMPORT CUSTOMS BROKER                                           WEIGHT                           VOLUME                    CHARGEABLE           PACKAGES
+                                                                69.000 KG                        0.864 M3                  144.000 KG           1 PLT
+ORDER NUMBERS / OWNER'S REFERENCE
+7430000044
+FLIGHT / DATE                                                                                    MAWB                                 HAWB
+EK0761 / 27-Feb                                                                                  17696388202                          176-96388202
+ORIGIN                                                                  ETD                      DESTINATION                                          ETA
+AEDXB = Dubai, United Arab Emirates                                     27-Feb-24                ZAJNB = Johannesburg, South Africa                   27-Feb-24
+INCOTERM                                                                                         ADDITIONAL TERMS
+FOB - Free On Board
+CHARGES
+DESCRIPTION                                                                                                                   VAT IN AED             CHARGES IN AED
+AIR Freight Charges                                                                                                      Not Applicable                   4,070.00
+
+
+
+
+TOTAL CHARGES
+Note: Please contact us within 7 days should there be any discrepancies
+Cheque's to be issued in favor of Proconnect Supply Chain Logistics LLC
+                                                                                                                          SUBTOTAL                        4,070.00
+"Unless otherwise stated, you shall be deemed to have been accepted to our general terms and conditions in our website
+https://proconnectlogistics.com/terms-and-conditions/, which shall form part of this document."
+                                                                                                                               VAT                            0.00
+*** This is a system generated invoice, hence no signature required ***
+                                                                                                                          TOTAL AED                     4,070.00
+
+       CUSTOMER ID REDGULDXB10                                              Invoiced                  AED 4,070.00             BALANCE DUE              AED 4,070.00
+  PAYMENT METHOD                                                                                                                  DUE DATE                 03-Apr-24
+Transfer Funds To:                                                                               Address:
+       Bank EMIRATES NBD                              SWIFT EBILAEAD                             PROCONNECT SUPPLY CHAIN LOGISTICS LLC - JAFZA
+                                                                                                 PLOT NO. S 30902, JEBEL ALI FREE ZONE SOUTH
+  Account AE140260001015258474901                                                                DUBAI, P.O. BOX 262674
+EMIRATES NBD AED ACCOUNT                                                                         UNITED ARAB EMIRATES
+P O BOX 2923, DUBAI , UAE
+CHEQUE PAYABLE IN FAVOR OF " PROCONNECT SUPPLY
+CHAIN LOGISTICS LLC"
+
+   Pay Ref REDGULDXB10 00104719
+
+Issued by: Manoj S
+TAX INVOICE 00105340                                                                                                                                   Page 1 of 1
+VAT #: 100245109200003
+          INVOICE DATE 21-Mar-24                                                                 REDINGTON GULF FZE (IT AFRICA)
+           CUSTOMER ID REDGULDXB10                                                               ATTENTION: THE ACCOUNTS PAYABLE MANAGER
+                SHIPMENT S00124978
+                                                                                                 507, 5TH FLOOR, ATTRIUM CENTRE
+                                                                                                 BUR DUBAI
+           CLIENT VAT # 100245109200003
+                DUE DATE 20-Apr-24
+                     TERMS 30 days from Inv. Date
+
+CONSIGNOR                                                                                        CONSIGNEE
+SANDISK SEMICONDUCTOR (SHANGHAI)CO.,LTD                                                          REDINGTON BAHRAIN
+IMPORT CUSTOMS BROKER                                           WEIGHT                           VOLUME                    CHARGEABLE             PACKAGES
+                                                                90.000 KG                        0.870 M3                  145.000 KG             1 PLT
+ORDER NUMBERS / OWNER'S REFERENCE
+7410001835
+                                                                                                 MAWB                                 HAWB
+                                                                                                                                      S00124978
+ORIGIN                                                                  ETD                      DESTINATION                                         ETA
+CNSGH = Shanghai, China                                                 14-Mar-24                BHBAH = Bahrain International Airport, Bahrain      16-Mar-24
+INCOTERM                                                                                         ADDITIONAL TERMS
+EXW - Ex Works
+CHARGES
+DESCRIPTION                                                                                                                   VAT IN AED            CHARGES IN AED
+Frt ­ USD 4.41/kg                                                                                                        Not Applicable                  2,356.37
+
+EXW ­ USD 250 allin                                                                                                      Not Applicable                      921.25
+
+
+
+
+TOTAL CHARGES
+Note: Please contact us within 7 days should there be any discrepancies
+Cheque's to be issued in favor of Proconnect Supply Chain Logistics LLC
+                                                                                                                          SUBTOTAL                       3,277.62
+"Unless otherwise stated, you shall be deemed to have been accepted to our general terms and conditions in our website
+https://proconnectlogistics.com/terms-and-conditions/, which shall form part of this document."
+                                                                                                                                VAT                          0.00
+*** This is a system generated invoice, hence no signature required ***
+                                                                                                                          TOTAL AED                    3,277.62
+
+       CUSTOMER ID REDGULDXB10                                              Invoiced                  AED 3,277.62              BALANCE DUE            AED 3,277.62
+  PAYMENT METHOD                                                                                                                   DUE DATE               20-Apr-24
+Transfer Funds To:                                                                               Address:
+       Bank EMIRATES NBD                              SWIFT EBILAEAD                             PROCONNECT SUPPLY CHAIN LOGISTICS LLC - JAFZA
+                                                                                                 PLOT NO. S 30902, JEBEL ALI FREE ZONE SOUTH
+  Account AE140260001015258474901                                                                DUBAI, P.O. BOX 262674
+EMIRATES NBD AED ACCOUNT                                                                         UNITED ARAB EMIRATES
+P O BOX 2923, DUBAI , UAE
+CHEQUE PAYABLE IN FAVOR OF " PROCONNECT SUPPLY
+CHAIN LOGISTICS LLC"
+
+   Pay Ref REDGULDXB10 00105340
+
+Issued by: Manoj S
+TAX INVOICE 00105353                                                                                                                                    Page 1 of 1
+VAT #: 100245109200003
+          INVOICE DATE 21-Mar-24                                                                 REDINGTON GULF FZE (IT AFRICA)
+           CUSTOMER ID REDGULDXB10                                                               ATTENTION: THE ACCOUNTS PAYABLE MANAGER
+                SHIPMENT S00124625
+                                                                                                 507, 5TH FLOOR, ATTRIUM CENTRE
+                                                                                                 BUR DUBAI
+           CLIENT VAT # 100245109200003
+                DUE DATE 20-Apr-24
+                     TERMS 30 days from Inv. Date
+
+CONSIGNOR                                                                                        CONSIGNEE
+SANDISK SEMICONDUCTOR (SHANGHAI)CO.,LTD                                                          REDINGTON SOUTH AFRICA DIST PTY LTD
+IMPORT CUSTOMS BROKER                                           WEIGHT                           VOLUME                    CHARGEABLE           PACKAGES
+                                                                284.000 KG                       2.262 M3                  377.000 KG           2 PLT
+ORDER NUMBERS / OWNER'S REFERENCE
+7430000049
+FLIGHT / DATE                                                                                    MAWB                                 HAWB
+SQ7857 / 22-Mar                                                                                  61831986942                          618-31986942
+ORIGIN                                                                  ETD                      DESTINATION                                          ETA
+CNPVG = Shanghai Pudong International Apt,                              22-Mar-24                ZAJNB = Johannesburg, South Africa                   24-Mar-24
+China
+INCOTERM                                                                                         ADDITIONAL TERMS
+EXW - Ex Works
+CHARGES
+DESCRIPTION                                                                                                                   VAT IN AED             CHARGES IN AED
+AIR Freight Charges USD 2,160.00 @ 3.672500                                                                              Not Applicable                   7,932.60
+
+
+
+
+TOTAL CHARGES
+Note: Please contact us within 7 days should there be any discrepancies
+Cheque's to be issued in favor of Proconnect Supply Chain Logistics LLC
+                                                                                                                          SUBTOTAL                        7,932.60
+"Unless otherwise stated, you shall be deemed to have been accepted to our general terms and conditions in our website
+https://proconnectlogistics.com/terms-and-conditions/, which shall form part of this document."
+                                                                                                                               VAT                            0.00
+*** This is a system generated invoice, hence no signature required ***
+                                                                                                                          TOTAL AED                     7,932.60
+
+       CUSTOMER ID REDGULDXB10                                              Invoiced                  AED 7,932.60             BALANCE DUE              AED 7,932.60
+  PAYMENT METHOD                                                                                                                  DUE DATE                 20-Apr-24
+Transfer Funds To:                                                                               Address:
+       Bank EMIRATES NBD                              SWIFT EBILAEAD                             PROCONNECT SUPPLY CHAIN LOGISTICS LLC - JAFZA
+                                                                                                 PLOT NO. S 30902, JEBEL ALI FREE ZONE SOUTH
+  Account AE140260001015258474901                                                                DUBAI, P.O. BOX 262674
+EMIRATES NBD AED ACCOUNT                                                                         UNITED ARAB EMIRATES
+P O BOX 2923, DUBAI , UAE
+CHEQUE PAYABLE IN FAVOR OF " PROCONNECT SUPPLY
+CHAIN LOGISTICS LLC"
+
+   Pay Ref REDGULDXB10 00105353
+
+Issued by: Manoj S
+TAX INVOICE 00105516                                                                                                  Page 1 of 2
+VAT #: 100245109200003
+       INVOICE DATE 26-Mar-24                                       REDINGTON GULF FZE (IT AFRICA)
+       CUSTOMER ID REDGULDXB10                                      ATTENTION: THE ACCOUNTS PAYABLE MANAGER
+          SHIPMENT S00125356
+                                                                    507, 5TH FLOOR, ATTRIUM CENTRE
+                                                                    BUR DUBAI
+       CLIENT VAT # 100245109200003
+          DUE DATE 25-Apr-24
+              TERMS 30 days from Inv. Date
+
+CONSIGNOR                                                           CONSIGNEE
+DELL PRODUCTS EUROPE                                                REDINGTON GULF FZE
+IMPORT CUSTOMS BROKER                        WEIGHT                 VOLUME                CHARGEABLE         PACKAGES
+                                             1191.000 KG            9.756 M3              1626.000 KG        7 PLT
+ORDER NUMBERS / OWNER'S REFERENCE
+7080056140, 7080056141, 7080056095
+                                                                    MAWB                             HAWB
+                                                                                                     AAMSB1010234
+ORIGIN                                            ETD               DESTINATION                                     ETA
+NLAMS = Amsterdam, Netherlands                    16-Mar-24         AEDXB = Dubai, United Arab Emirates             17-Mar-24
+INCOTERM                                                            ADDITIONAL TERMS
+EXW - Ex Works
+CHARGES
+DESCRIPTION                                                                                    VAT IN AED       CHARGES IN AED
+FRT ­ Eur 2.47/kg                                                                      Not Applicable                  16,265.69
+
+FSC ­ Eur 0.40/kg                                                                      Not Applicable                   2,634.12
+
+EXW ­ Eur 0.32/kg                                                                      Not Applicable                   2,107.30
+
+EXW basic ­ Eur 75                                                                     Not Applicable                      303.75
+
+Handling ­ Eur 75                                                                      Not Applicable                      303.75
+
+Delivery Order Fee                                                                     Not Applicable                      250.00
+DNATA HANDLING CHARGES                                                                 Not Applicable                      292.68
+CARGO TRANSFER FEES                                                                    Not Applicable                      162.60
+
+Bill of Entry fee Export                                                               Not   Applicable                    105.00
+Gate Pass Export                                                                       Not   Applicable                     73.50
+Clearance Charges                                                                      Not   Applicable                    150.00
+Transportation Charges                                                                 Not   Applicable                    250.00
+CUSTOMS SUBMISSION CHARGES                                                             Not   Applicable                     70.00
+
+CUSTOMS DEPOSIT                                                                        Not Applicable                   1,000.00
+
+
+
+
+                                                           Continued Over...
+TAX INVOICE 00105516                                                                                                                           Page 2 of 2
+VAT #: 100245109200003
+          INVOICE DATE 26-Mar-24                                                                 REDINGTON GULF FZE (IT AFRICA)
+           CUSTOMER ID REDGULDXB10                                                               ATTENTION: THE ACCOUNTS PAYABLE MANAGER
+                SHIPMENT S00125356
+                                                                                                 507, 5TH FLOOR, ATTRIUM CENTRE
+                                                                                                 BUR DUBAI
+           CLIENT VAT # 100245109200003
+                DUE DATE 25-Apr-24
+                     TERMS 30 days from Inv. Date
+
+CHARGES (cont.)
+DESCRIPTION                                                                                                                  VAT IN AED     CHARGES IN AED
+
+
+
+
+TOTAL CHARGES
+Note: Please contact us within 7 days should there be any discrepancies
+Cheque's to be issued in favor of Proconnect Supply Chain Logistics LLC
+                                                                                                                         SUBTOTAL                23,968.39
+"Unless otherwise stated, you shall be deemed to have been accepted to our general terms and conditions in our website
+https://proconnectlogistics.com/terms-and-conditions/, which shall form part of this document."
+                                                                                                                              VAT                     0.00
+*** This is a system generated invoice, hence no signature required ***
+                                                                                                                         TOTAL AED           23,968.39
+
+       CUSTOMER ID REDGULDXB10                                              Invoiced                AED 23,968.39             BALANCE DUE     AED 23,968.39
+  PAYMENT METHOD                                                                                                                 DUE DATE         25-Apr-24
+Transfer Funds To:                                                                               Address:
+       Bank EMIRATES NBD                              SWIFT EBILAEAD                             PROCONNECT SUPPLY CHAIN LOGISTICS LLC - JAFZA
+                                                                                                 PLOT NO. S 30902, JEBEL ALI FREE ZONE SOUTH
+  Account AE140260001015258474901                                                                DUBAI, P.O. BOX 262674
+EMIRATES NBD AED ACCOUNT                                                                         UNITED ARAB EMIRATES
+P O BOX 2923, DUBAI , UAE
+CHEQUE PAYABLE IN FAVOR OF " PROCONNECT SUPPLY
+CHAIN LOGISTICS LLC"
+
+   Pay Ref REDGULDXB10 00105516
+
+Issued by: Manoj S
+TAX INVOICE 00105598                                                                                                                                    Page 1 of 1
+VAT #: 100245109200003
+          INVOICE DATE 27-Mar-24                                                                 REDINGTON GULF FZE (IT AFRICA)
+           CUSTOMER ID REDGULDXB10                                                               ATTENTION: THE ACCOUNTS PAYABLE MANAGER
+                SHIPMENT S00125423
+                                                                                                 507, 5TH FLOOR, ATTRIUM CENTRE
+                                                                                                 BUR DUBAI
+           CLIENT VAT # 100245109200003
+                DUE DATE 26-Apr-24
+                     TERMS 30 days from Inv. Date
+
+CONSIGNOR                                                                                        CONSIGNEE
+DELL PRODUCTS LTD                                                                                CFAO TECHNOLOGIES CAMEROUN
+IMPORT CUSTOMS BROKER                                           WEIGHT                           VOLUME                    CHARGEABLE           PACKAGES
+                                                                361.000 KG                       2.577 M3                  429.500 KG           2 PLT
+ORDER NUMBERS / OWNER'S REFERENCE
+7080054422
+                                                                                                 MAWB                                 HAWB
+                                                                                                                                      020-05298016
+ORIGIN                                                                  ETD                      DESTINATION                                          ETA
+NLAMS = Amsterdam, Netherlands                                          26-Mar-24                CMDLA = Douala, Cameroon                             27-Mar-24
+INCOTERM                                                                                         ADDITIONAL TERMS
+EXW - Ex Works
+CHARGES
+DESCRIPTION                                                                                                                   VAT IN AED             CHARGES IN AED
+FRT ­ Eur 4.67/kg                                                                                                        Not Applicable                   8,123.35
+
+EXW ­ Eur 0.32/kg                                                                                                        Not Applicable                      556.63
+
+EXW basic ­ Eur 75                                                                                                       Not Applicable                      303.75
+
+Handling ­ Eur 75                                                                                                        Not Applicable                      303.75
+
+
+
+
+TOTAL CHARGES
+Note: Please contact us within 7 days should there be any discrepancies
+Cheque's to be issued in favor of Proconnect Supply Chain Logistics LLC
+                                                                                                                          SUBTOTAL                        9,287.48
+"Unless otherwise stated, you shall be deemed to have been accepted to our general terms and conditions in our website
+https://proconnectlogistics.com/terms-and-conditions/, which shall form part of this document."
+                                                                                                                               VAT                            0.00
+*** This is a system generated invoice, hence no signature required ***
+                                                                                                                          TOTAL AED                     9,287.48
+
+       CUSTOMER ID REDGULDXB10                                              Invoiced                  AED 9,287.48             BALANCE DUE              AED 9,287.48
+  PAYMENT METHOD                                                                                                                  DUE DATE                 26-Apr-24
+Transfer Funds To:                                                                               Address:
+       Bank EMIRATES NBD                              SWIFT EBILAEAD                             PROCONNECT SUPPLY CHAIN LOGISTICS LLC - JAFZA
+                                                                                                 PLOT NO. S 30902, JEBEL ALI FREE ZONE SOUTH
+  Account AE140260001015258474901                                                                DUBAI, P.O. BOX 262674
+EMIRATES NBD AED ACCOUNT                                                                         UNITED ARAB EMIRATES
+P O BOX 2923, DUBAI , UAE
+CHEQUE PAYABLE IN FAVOR OF " PROCONNECT SUPPLY
+CHAIN LOGISTICS LLC"
+
+   Pay Ref REDGULDXB10 00105598
+
+Issued by: Manoj S
+TAX INVOICE 00106098                                                                                                                                  Page 1 of 1
+VAT #: 100245109200003
+          INVOICE DATE 30-Mar-24                                                                 REDINGTON GULF FZE (IT AFRICA)
+           CUSTOMER ID REDGULDXB10                                                               ATTENTION: THE ACCOUNTS PAYABLE MANAGER
+                SHIPMENT S00124100
+                                                                                                 507, 5TH FLOOR, ATTRIUM CENTRE
+                                                                                                 BUR DUBAI
+           CLIENT VAT # 100245109200003
+                DUE DATE 29-Apr-24
+                     TERMS 30 days from Inv. Date
+
+CONSIGNOR                                                                                        CONSIGNEE
+CWT - SML LOGISTICS LLC                                                                          REDINGTON GULF FZE
+IMPORT CUSTOMS BROKER                                           WEIGHT                           VOLUME                    CHARGEABLE          PACKAGES
+                                                                103.560 KG                                                 103.560 KG          916 PCE
+ORDER NUMBERS / OWNER'S REFERENCE
+7080056285-KE
+                                                                                                 MASTER BILL                          HOUSE BILL
+                                                                                                                                      API27714
+ORIGIN                                                                  ETD                      DESTINATION                                        ETA
+AEJEA = Jebel Ali, United Arab Emirates                                 29-Feb-24                AEJEA = Jebel Ali, United Arab Emirates            29-Feb-24
+INCOTERM                                                                                         ADDITIONAL TERMS
+
+
+CHARGES
+DESCRIPTION                                                                                                                   VAT IN AED           CHARGES IN AED
+Handling Charges                                                                                                         Not Applicable                    100.00
+Bill of Entry fee Export                                                                                                 Not Applicable                    105.00
+
+
+
+
+TOTAL CHARGES
+Note: Please contact us within 7 days should there be any discrepancies
+Cheque's to be issued in favor of Proconnect Supply Chain Logistics LLC
+                                                                                                                          SUBTOTAL                         205.00
+"Unless otherwise stated, you shall be deemed to have been accepted to our general terms and conditions in our website
+https://proconnectlogistics.com/terms-and-conditions/, which shall form part of this document."
+                                                                                                                               VAT                           0.00
+*** This is a system generated invoice, hence no signature required ***
+                                                                                                                          TOTAL AED                      205.00
+
+       CUSTOMER ID REDGULDXB10                                              Invoiced                     AED 205.00            BALANCE DUE              AED 205.00
+  PAYMENT METHOD                                                                                                                  DUE DATE               29-Apr-24
+Transfer Funds To:                                                                               Address:
+       Bank EMIRATES NBD                              SWIFT EBILAEAD                             PROCONNECT SUPPLY CHAIN LOGISTICS LLC - JAFZA
+                                                                                                 PLOT NO. S 30902, JEBEL ALI FREE ZONE SOUTH
+  Account AE140260001015258474901                                                                DUBAI, P.O. BOX 262674
+EMIRATES NBD AED ACCOUNT                                                                         UNITED ARAB EMIRATES
+P O BOX 2923, DUBAI , UAE
+CHEQUE PAYABLE IN FAVOR OF " PROCONNECT SUPPLY
+CHAIN LOGISTICS LLC"
+
+   Pay Ref REDGULDXB10 00106098
+
+Issued by: Sai Aravind
+TAX INVOICE 00106099                                                                                                                                   Page 1 of 1
+VAT #: 100245109200003
+          INVOICE DATE 30-Mar-24                                                                 REDINGTON GULF FZE (IT AFRICA)
+           CUSTOMER ID REDGULDXB10                                                               ATTENTION: THE ACCOUNTS PAYABLE MANAGER
+                SHIPMENT S00124077
+                                                                                                 507, 5TH FLOOR, ATTRIUM CENTRE
+                                                                                                 BUR DUBAI
+           CLIENT VAT # 100245109200003
+                DUE DATE 29-Apr-24
+                     TERMS 30 days from Inv. Date
+
+CONSIGNOR                                                                                        CONSIGNEE
+LENOVO PC HK LTD                                                                                 REDINGTON GULF FZE
+IMPORT CUSTOMS BROKER                                           WEIGHT                           VOLUME                    CHARGEABLE           PACKAGES
+                                                                266.000 KG                                                 266.000 KG           11 PKG
+ORDER NUMBERS / OWNER'S REFERENCE
+7080055906-GH
+                                                                                                 MAWB                                  HAWB
+                                                                                                                                       4397237035
+ORIGIN                                                                  ETD                      DESTINATION                                         ETA
+HKQBY = Quarry Bay, Hong Kong                                           29-Feb-24                AEDXB = Dubai, United Arab Emirates                 01-Mar-24
+INCOTERM                                                                                         ADDITIONAL TERMS
+FOB - Free On Board
+CHARGES
+DESCRIPTION                                                                                                                     VAT IN AED          CHARGES IN AED
+Handling Charges                                                                                                         Not   Applicable                   150.00
+Delivery Order Fee                                                                                                       Not   Applicable                   690.00
+Transportation Charges                                                                                                   Not   Applicable                   200.00
+Storage Charges                                                                                                          Not   Applicable                    50.00
+Bill of Entry fee Export                                                                                                 Not   Applicable                   105.00
+
+
+
+
+TOTAL CHARGES
+Note: Please contact us within 7 days should there be any discrepancies
+Cheque's to be issued in favor of Proconnect Supply Chain Logistics LLC
+                                                                                                                          SUBTOTAL                       1,195.00
+"Unless otherwise stated, you shall be deemed to have been accepted to our general terms and conditions in our website
+https://proconnectlogistics.com/terms-and-conditions/, which shall form part of this document."
+                                                                                                                                 VAT                         0.00
+*** This is a system generated invoice, hence no signature required ***
+                                                                                                                          TOTAL AED                    1,195.00
+
+       CUSTOMER ID REDGULDXB10                                              Invoiced                  AED 1,195.00               BALANCE DUE           AED 1,195.00
+  PAYMENT METHOD                                                                                                                    DUE DATE              29-Apr-24
+Transfer Funds To:                                                                               Address:
+       Bank EMIRATES NBD                              SWIFT EBILAEAD                             PROCONNECT SUPPLY CHAIN LOGISTICS LLC - JAFZA
+                                                                                                 PLOT NO. S 30902, JEBEL ALI FREE ZONE SOUTH
+  Account AE140260001015258474901                                                                DUBAI, P.O. BOX 262674
+EMIRATES NBD AED ACCOUNT                                                                         UNITED ARAB EMIRATES
+P O BOX 2923, DUBAI , UAE
+CHEQUE PAYABLE IN FAVOR OF " PROCONNECT SUPPLY
+CHAIN LOGISTICS LLC"
+
+   Pay Ref REDGULDXB10 00106099
+
+Issued by: Sai Aravind
+TAX INVOICE 00106100                                                                                                                                  Page 1 of 1
+VAT #: 100245109200003
+          INVOICE DATE 30-Mar-24                                                                 REDINGTON GULF FZE (IT AFRICA)
+           CUSTOMER ID REDGULDXB10                                                               ATTENTION: THE ACCOUNTS PAYABLE MANAGER
+                SHIPMENT S00124234
+                                                                                                 507, 5TH FLOOR, ATTRIUM CENTRE
+                                                                                                 BUR DUBAI
+           CLIENT VAT # 100245109200003
+                DUE DATE 29-Apr-24
+                     TERMS 30 days from Inv. Date
+
+CONSIGNOR                                                                                        CONSIGNEE
+LENOVO PC HK LTD                                                                                 REDINGTON GULF FZE
+IMPORT CUSTOMS BROKER                                           WEIGHT                           VOLUME                    CHARGEABLE          PACKAGES
+                                                                347.000 KG                                                 347.000 KG          20 PCE
+ORDER NUMBERS / OWNER'S REFERENCE
+7080056036-GHANA
+                                                                                                 MAWB                                 HAWB
+                                                                                                                                      4397237708
+ORIGIN                                                                  ETD                      DESTINATION                                        ETA
+HKQBY = Quarry Bay, Hong Kong                                           04-Mar-24                AEDXB = Dubai, United Arab Emirates                05-Mar-24
+INCOTERM                                                                                         ADDITIONAL TERMS
+FOB - Free On Board
+CHARGES
+DESCRIPTION                                                                                                                   VAT IN AED           CHARGES IN AED
+Handling Charges                                                                                                         Not Applicable                    100.00
+Delivery Order Fee                                                                                                       Not Applicable                    690.00
+Bill of Entry fee Export                                                                                                 Not Applicable                    105.00
+
+
+
+
+TOTAL CHARGES
+Note: Please contact us within 7 days should there be any discrepancies
+Cheque's to be issued in favor of Proconnect Supply Chain Logistics LLC
+                                                                                                                          SUBTOTAL                         895.00
+"Unless otherwise stated, you shall be deemed to have been accepted to our general terms and conditions in our website
+https://proconnectlogistics.com/terms-and-conditions/, which shall form part of this document."
+                                                                                                                               VAT                           0.00
+*** This is a system generated invoice, hence no signature required ***
+                                                                                                                          TOTAL AED                      895.00
+
+       CUSTOMER ID REDGULDXB10                                              Invoiced                     AED 895.00            BALANCE DUE              AED 895.00
+  PAYMENT METHOD                                                                                                                  DUE DATE               29-Apr-24
+Transfer Funds To:                                                                               Address:
+       Bank EMIRATES NBD                              SWIFT EBILAEAD                             PROCONNECT SUPPLY CHAIN LOGISTICS LLC - JAFZA
+                                                                                                 PLOT NO. S 30902, JEBEL ALI FREE ZONE SOUTH
+  Account AE140260001015258474901                                                                DUBAI, P.O. BOX 262674
+EMIRATES NBD AED ACCOUNT                                                                         UNITED ARAB EMIRATES
+P O BOX 2923, DUBAI , UAE
+CHEQUE PAYABLE IN FAVOR OF " PROCONNECT SUPPLY
+CHAIN LOGISTICS LLC"
+
+   Pay Ref REDGULDXB10 00106100
+
+Issued by: Sai Aravind
+TAX INVOICE 00106101                                                                                                                                   Page 1 of 1
+VAT #: 100245109200003
+          INVOICE DATE 30-Mar-24                                                                 REDINGTON GULF FZE (IT AFRICA)
+           CUSTOMER ID REDGULDXB10                                                               ATTENTION: THE ACCOUNTS PAYABLE MANAGER
+                SHIPMENT S00124235
+                                                                                                 507, 5TH FLOOR, ATTRIUM CENTRE
+                                                                                                 BUR DUBAI
+           CLIENT VAT # 100245109200003
+                DUE DATE 29-Apr-24
+                     TERMS 30 days from Inv. Date
+
+CONSIGNOR                                                                                        CONSIGNEE
+LENOVO PC HK LTD                                                                                 REDINGTON GULF FZE
+IMPORT CUSTOMS BROKER                                           WEIGHT                           VOLUME                    CHARGEABLE           PACKAGES
+                                                                1443.000 KG                                                1443.000 KG          10 PLT
+ORDER NUMBERS / OWNER'S REFERENCE
+7080056245-GH
+                                                                                                 MAWB                                  HAWB
+                                                                                                                                       4397206900
+ORIGIN                                                                  ETD                      DESTINATION                                         ETA
+HKQBY = Quarry Bay, Hong Kong                                           04-Mar-24                AEDXB = Dubai, United Arab Emirates                 05-Mar-24
+INCOTERM                                                                                         ADDITIONAL TERMS
+FOB - Free On Board
+CHARGES
+DESCRIPTION                                                                                                                     VAT IN AED          CHARGES IN AED
+Handling Charges                                                                                                         Not   Applicable                  150.00
+Delivery Order Fee                                                                                                       Not   Applicable                1,325.00
+Transportation Charges                                                                                                   Not   Applicable                  330.00
+Bill of Entry fee Export                                                                                                 Not   Applicable                  105.00
+
+
+
+
+TOTAL CHARGES
+Note: Please contact us within 7 days should there be any discrepancies
+Cheque's to be issued in favor of Proconnect Supply Chain Logistics LLC
+                                                                                                                          SUBTOTAL                       1,910.00
+"Unless otherwise stated, you shall be deemed to have been accepted to our general terms and conditions in our website
+https://proconnectlogistics.com/terms-and-conditions/, which shall form part of this document."
+                                                                                                                                 VAT                         0.00
+*** This is a system generated invoice, hence no signature required ***
+                                                                                                                          TOTAL AED                    1,910.00
+
+       CUSTOMER ID REDGULDXB10                                              Invoiced                  AED 1,910.00               BALANCE DUE           AED 1,910.00
+  PAYMENT METHOD                                                                                                                    DUE DATE              29-Apr-24
+Transfer Funds To:                                                                               Address:
+       Bank EMIRATES NBD                              SWIFT EBILAEAD                             PROCONNECT SUPPLY CHAIN LOGISTICS LLC - JAFZA
+                                                                                                 PLOT NO. S 30902, JEBEL ALI FREE ZONE SOUTH
+  Account AE140260001015258474901                                                                DUBAI, P.O. BOX 262674
+EMIRATES NBD AED ACCOUNT                                                                         UNITED ARAB EMIRATES
+P O BOX 2923, DUBAI , UAE
+CHEQUE PAYABLE IN FAVOR OF " PROCONNECT SUPPLY
+CHAIN LOGISTICS LLC"
+
+   Pay Ref REDGULDXB10 00106101
+
+Issued by: Sai Aravind
+TAX INVOICE 00106102                                                                                                                                   Page 1 of 1
+VAT #: 100245109200003
+          INVOICE DATE 30-Mar-24                                                                 REDINGTON GULF FZE (IT AFRICA)
+           CUSTOMER ID REDGULDXB10                                                               ATTENTION: THE ACCOUNTS PAYABLE MANAGER
+                SHIPMENT S00124320
+                                                                                                 507, 5TH FLOOR, ATTRIUM CENTRE
+                                                                                                 BUR DUBAI
+           CLIENT VAT # 100245109200003
+                DUE DATE 29-Apr-24
+                     TERMS 30 days from Inv. Date
+
+CONSIGNOR                                                                                        CONSIGNEE
+LENOVO PC HK LTD                                                                                 REDINGTON GULF FZE
+IMPORT CUSTOMS BROKER                                           WEIGHT                           VOLUME                    CHARGEABLE           PACKAGES
+                                                                361.500 KG                                                 361.500 KG           9 PKG
+ORDER NUMBERS / OWNER'S REFERENCE
+7080055962-GH, 7010154318, 7010155425
+                                                                                                 MAWB                                  HAWB
+                                                                                                                                       4914592310
+ORIGIN                                                                  ETD                      DESTINATION                                         ETA
+HKQBY = Quarry Bay, Hong Kong                                           05-Mar-24                AEDXB = Dubai, United Arab Emirates                 06-Mar-24
+INCOTERM                                                                                         ADDITIONAL TERMS
+FOB - Free On Board
+CHARGES
+DESCRIPTION                                                                                                                     VAT IN AED          CHARGES IN AED
+Handling Charges                                                                                                         Not   Applicable                   150.00
+Delivery Order Fee                                                                                                       Not   Applicable                   730.00
+Transportation Charges                                                                                                   Not   Applicable                   200.00
+Bill of Entry fee Export                                                                                                 Not   Applicable                   105.00
+
+
+
+
+TOTAL CHARGES
+Note: Please contact us within 7 days should there be any discrepancies
+Cheque's to be issued in favor of Proconnect Supply Chain Logistics LLC
+                                                                                                                          SUBTOTAL                       1,185.00
+"Unless otherwise stated, you shall be deemed to have been accepted to our general terms and conditions in our website
+https://proconnectlogistics.com/terms-and-conditions/, which shall form part of this document."
+                                                                                                                                 VAT                         0.00
+*** This is a system generated invoice, hence no signature required ***
+                                                                                                                          TOTAL AED                    1,185.00
+
+       CUSTOMER ID REDGULDXB10                                              Invoiced                  AED 1,185.00               BALANCE DUE           AED 1,185.00
+  PAYMENT METHOD                                                                                                                    DUE DATE              29-Apr-24
+Transfer Funds To:                                                                               Address:
+       Bank EMIRATES NBD                              SWIFT EBILAEAD                             PROCONNECT SUPPLY CHAIN LOGISTICS LLC - JAFZA
+                                                                                                 PLOT NO. S 30902, JEBEL ALI FREE ZONE SOUTH
+  Account AE140260001015258474901                                                                DUBAI, P.O. BOX 262674
+EMIRATES NBD AED ACCOUNT                                                                         UNITED ARAB EMIRATES
+P O BOX 2923, DUBAI , UAE
+CHEQUE PAYABLE IN FAVOR OF " PROCONNECT SUPPLY
+CHAIN LOGISTICS LLC"
+
+   Pay Ref REDGULDXB10 00106102
+
+Issued by: Sai Aravind
+TAX INVOICE 00106104                                                                                                                                   Page 1 of 1
+VAT #: 100245109200003
+          INVOICE DATE 30-Mar-24                                                                 REDINGTON GULF FZE (IT AFRICA)
+           CUSTOMER ID REDGULDXB10                                                               ATTENTION: THE ACCOUNTS PAYABLE MANAGER
+                SHIPMENT S00124703
+                                                                                                 507, 5TH FLOOR, ATTRIUM CENTRE
+                                                                                                 BUR DUBAI
+           CLIENT VAT # 100245109200003
+                DUE DATE 29-Apr-24
+                     TERMS 30 days from Inv. Date
+
+CONSIGNOR                                                                                        CONSIGNEE
+LENOVO PC HK LTD                                                                                 REDINGTON GULF FZE
+IMPORT CUSTOMS BROKER                                           WEIGHT                           VOLUME                    CHARGEABLE           PACKAGES
+                                                                967.000 KG                                                 967.000 KG           9 PLT
+ORDER NUMBERS / OWNER'S REFERENCE
+7080056245-GH
+                                                                                                 MAWB                                  HAWB
+                                                                                                                                       4397206899
+ORIGIN                                                                  ETD                      DESTINATION                                         ETA
+HKQBY = Quarry Bay, Hong Kong                                           13-Mar-24                AEDXB = Dubai, United Arab Emirates                 14-Mar-24
+INCOTERM                                                                                         ADDITIONAL TERMS
+FOB - Free On Board
+CHARGES
+DESCRIPTION                                                                                                                     VAT IN AED          CHARGES IN AED
+Handling Charges                                                                                                         Not   Applicable                  150.00
+Transportation Charges                                                                                                   Not   Applicable                  200.00
+Delivery Order Fee                                                                                                       Not   Applicable                1,070.00
+Transportation Charges                                                                                                   Not   Applicable                  200.00
+Bill of Entry fee Export                                                                                                 Not   Applicable                  105.00
+
+
+
+
+TOTAL CHARGES
+Note: Please contact us within 7 days should there be any discrepancies
+Cheque's to be issued in favor of Proconnect Supply Chain Logistics LLC
+                                                                                                                          SUBTOTAL                       1,725.00
+"Unless otherwise stated, you shall be deemed to have been accepted to our general terms and conditions in our website
+https://proconnectlogistics.com/terms-and-conditions/, which shall form part of this document."
+                                                                                                                                 VAT                         0.00
+*** This is a system generated invoice, hence no signature required ***
+                                                                                                                          TOTAL AED                    1,725.00
+
+       CUSTOMER ID REDGULDXB10                                              Invoiced                  AED 1,725.00               BALANCE DUE           AED 1,725.00
+  PAYMENT METHOD                                                                                                                    DUE DATE              29-Apr-24
+Transfer Funds To:                                                                               Address:
+       Bank EMIRATES NBD                              SWIFT EBILAEAD                             PROCONNECT SUPPLY CHAIN LOGISTICS LLC - JAFZA
+                                                                                                 PLOT NO. S 30902, JEBEL ALI FREE ZONE SOUTH
+  Account AE140260001015258474901                                                                DUBAI, P.O. BOX 262674
+EMIRATES NBD AED ACCOUNT                                                                         UNITED ARAB EMIRATES
+P O BOX 2923, DUBAI , UAE
+CHEQUE PAYABLE IN FAVOR OF " PROCONNECT SUPPLY
+CHAIN LOGISTICS LLC"
+
+   Pay Ref REDGULDXB10 00106104
+
+Issued by: Sai Aravind
+TAX INVOICE 00106103                                                                                                                                  Page 1 of 1
+VAT #: 100245109200003
+          INVOICE DATE 30-Mar-24                                                                 REDINGTON GULF FZE (IT AFRICA)
+           CUSTOMER ID REDGULDXB10                                                               ATTENTION: THE ACCOUNTS PAYABLE MANAGER
+                SHIPMENT S00124623
+                                                                                                 507, 5TH FLOOR, ATTRIUM CENTRE
+                                                                                                 BUR DUBAI
+           CLIENT VAT # 100245109200003
+                DUE DATE 29-Apr-24
+                     TERMS 30 days from Inv. Date
+
+CONSIGNOR                                                                                        CONSIGNEE
+LENOVO PC HK LTD                                                                                 REDINGTON GULF FZE
+IMPORT CUSTOMS BROKER                                           WEIGHT                           VOLUME                    CHARGEABLE          PACKAGES
+                                                                318.000 KG                                                 318.000 KG          4 PLT
+ORDER NUMBERS / OWNER'S REFERENCE
+7080056245-GH
+                                                                                                 MAWB                                 HAWB
+                                                                                                                                      4397239129
+ORIGIN                                                                  ETD                      DESTINATION                                        ETA
+HKQBY = Quarry Bay, Hong Kong                                           12-Mar-24                AEDXB = Dubai, United Arab Emirates                13-Mar-24
+INCOTERM                                                                                         ADDITIONAL TERMS
+FOB - Free On Board
+CHARGES
+DESCRIPTION                                                                                                                   VAT IN AED           CHARGES IN AED
+Handling Charges                                                                                                         Not Applicable                    150.00
+Delivery Order Fee                                                                                                       Not Applicable                    690.00
+Bill of Entry fee Export                                                                                                 Not Applicable                    105.00
+
+
+
+
+TOTAL CHARGES
+Note: Please contact us within 7 days should there be any discrepancies
+Cheque's to be issued in favor of Proconnect Supply Chain Logistics LLC
+                                                                                                                          SUBTOTAL                         945.00
+"Unless otherwise stated, you shall be deemed to have been accepted to our general terms and conditions in our website
+https://proconnectlogistics.com/terms-and-conditions/, which shall form part of this document."
+                                                                                                                               VAT                           0.00
+*** This is a system generated invoice, hence no signature required ***
+                                                                                                                          TOTAL AED                      945.00
+
+       CUSTOMER ID REDGULDXB10                                              Invoiced                     AED 945.00            BALANCE DUE              AED 945.00
+  PAYMENT METHOD                                                                                                                  DUE DATE               29-Apr-24
+Transfer Funds To:                                                                               Address:
+       Bank EMIRATES NBD                              SWIFT EBILAEAD                             PROCONNECT SUPPLY CHAIN LOGISTICS LLC - JAFZA
+                                                                                                 PLOT NO. S 30902, JEBEL ALI FREE ZONE SOUTH
+  Account AE140260001015258474901                                                                DUBAI, P.O. BOX 262674
+EMIRATES NBD AED ACCOUNT                                                                         UNITED ARAB EMIRATES
+P O BOX 2923, DUBAI , UAE
+CHEQUE PAYABLE IN FAVOR OF " PROCONNECT SUPPLY
+CHAIN LOGISTICS LLC"
+
+   Pay Ref REDGULDXB10 00106103
+
+Issued by: Sai Aravind
+TAX INVOICE 00106105                                                                                                                                  Page 1 of 1
+VAT #: 100245109200003
+          INVOICE DATE 30-Mar-24                                                                 REDINGTON GULF FZE (IT AFRICA)
+           CUSTOMER ID REDGULDXB10                                                               ATTENTION: THE ACCOUNTS PAYABLE MANAGER
+                SHIPMENT S00124779
+                                                                                                 507, 5TH FLOOR, ATTRIUM CENTRE
+                                                                                                 BUR DUBAI
+           CLIENT VAT # 100245109200003
+                DUE DATE 29-Apr-24
+                     TERMS 30 days from Inv. Date
+
+CONSIGNOR                                                                                        CONSIGNEE
+WUJIANG HICHAIN WAREHOUSING CO.,LTD                                                              REDINGTON GULF FZE
+IMPORT CUSTOMS BROKER                                           WEIGHT                           VOLUME                    CHARGEABLE           PACKAGES
+                                                                750.600 KG                                                 0.751 M3             12 PKG
+ORDER NUMBERS / OWNER'S REFERENCE
+7080055906-GH
+                                                                                                 OCEAN BILL OF LADING                  HOUSE BILL OF LADING
+                                                                                                                                       1057938525
+ORIGIN                                                                  ETD                      DESTINATION                                        ETA
+CNSHA = Shanghai Hongqiao International Apt,                            15-Mar-24                AEDXB = Dubai, United Arab Emirates                18-Mar-24
+China
+INCOTERM                                                                                         ADDITIONAL TERMS
+FOB - Free On Board
+CHARGES
+DESCRIPTION                                                                                                                     VAT IN AED         CHARGES IN AED
+Handling Charges                                                                                                         Not   Applicable                     150.00
+Delivery Order Fee                                                                                                       Not   Applicable                     945.90
+Bill of Entry fee Export                                                                                                 Not   Applicable                     105.00
+Transportation Charges                                                                                                   Not   Applicable                     200.00
+
+
+
+
+TOTAL CHARGES
+Note: Please contact us within 7 days should there be any discrepancies
+Cheque's to be issued in favor of Proconnect Supply Chain Logistics LLC
+                                                                                                                          SUBTOTAL                      1,400.90
+"Unless otherwise stated, you shall be deemed to have been accepted to our general terms and conditions in our website
+https://proconnectlogistics.com/terms-and-conditions/, which shall form part of this document."
+                                                                                                                                 VAT                        0.00
+*** This is a system generated invoice, hence no signature required ***
+                                                                                                                          TOTAL AED                   1,400.90
+
+       CUSTOMER ID REDGULDXB10                                              Invoiced                  AED 1,400.90               BALANCE DUE           AED 1,400.90
+  PAYMENT METHOD                                                                                                                    DUE DATE              29-Apr-24
+Transfer Funds To:                                                                               Address:
+       Bank EMIRATES NBD                              SWIFT EBILAEAD                             PROCONNECT SUPPLY CHAIN LOGISTICS LLC - JAFZA
+                                                                                                 PLOT NO. S 30902, JEBEL ALI FREE ZONE SOUTH
+  Account AE140260001015258474901                                                                DUBAI, P.O. BOX 262674
+EMIRATES NBD AED ACCOUNT                                                                         UNITED ARAB EMIRATES
+P O BOX 2923, DUBAI , UAE
+CHEQUE PAYABLE IN FAVOR OF " PROCONNECT SUPPLY
+CHAIN LOGISTICS LLC"
+
+   Pay Ref REDGULDXB10 00106105
+
+Issued by: Sai Aravind
+TAX INVOICE 00106106                                                                                                                                   Page 1 of 1
+VAT #: 100245109200003
+          INVOICE DATE 30-Mar-24                                                                 REDINGTON GULF FZE (IT AFRICA)
+           CUSTOMER ID REDGULDXB10                                                               ATTENTION: THE ACCOUNTS PAYABLE MANAGER
+                SHIPMENT S00125038
+                                                                                                 507, 5TH FLOOR, ATTRIUM CENTRE
+                                                                                                 BUR DUBAI
+           CLIENT VAT # 100245109200003
+                DUE DATE 29-Apr-24
+                     TERMS 30 days from Inv. Date
+
+CONSIGNOR                                                                                        CONSIGNEE
+LENOVO PC HK LTD                                                                                 REDINGTON GULF FZE
+IMPORT CUSTOMS BROKER                                           WEIGHT                           VOLUME                    CHARGEABLE           PACKAGES
+                                                                108.000 KG                                                 108.0 KG             2 PLT
+ORDER NUMBERS / OWNER'S REFERENCE
+7080056339-DUBAI, KEN
+FLIGHT / DATE                                                                                    MAWB                                  HAWB
+20-Mar                                                                                                                                 4397207056
+ORIGIN                                                                  ETD                      DESTINATION                                         ETA
+HKQBY = Quarry Bay, Hong Kong                                           20-Mar-24                AEDXB = Dubai, United Arab Emirates                 21-Mar-24
+INCOTERM                                                                                         ADDITIONAL TERMS
+FOB - Free On Board
+CHARGES
+DESCRIPTION                                                                                                                     VAT IN AED          CHARGES IN AED
+Handling Charges                                                                                                         Not   Applicable                   150.00
+Delivery Order Fee                                                                                                       Not   Applicable                   690.00
+Transportation Charges                                                                                                   Not   Applicable                   200.00
+Bill of Entry fee Export                                                                                                 Not   Applicable                   105.00
+
+
+
+
+TOTAL CHARGES
+Note: Please contact us within 7 days should there be any discrepancies
+Cheque's to be issued in favor of Proconnect Supply Chain Logistics LLC
+                                                                                                                          SUBTOTAL                       1,145.00
+"Unless otherwise stated, you shall be deemed to have been accepted to our general terms and conditions in our website
+https://proconnectlogistics.com/terms-and-conditions/, which shall form part of this document."
+                                                                                                                                 VAT                         0.00
+*** This is a system generated invoice, hence no signature required ***
+                                                                                                                          TOTAL AED                    1,145.00
+
+       CUSTOMER ID REDGULDXB10                                              Invoiced                  AED 1,145.00               BALANCE DUE           AED 1,145.00
+  PAYMENT METHOD                                                                                                                    DUE DATE              29-Apr-24
+Transfer Funds To:                                                                               Address:
+       Bank EMIRATES NBD                              SWIFT EBILAEAD                             PROCONNECT SUPPLY CHAIN LOGISTICS LLC - JAFZA
+                                                                                                 PLOT NO. S 30902, JEBEL ALI FREE ZONE SOUTH
+  Account AE140260001015258474901                                                                DUBAI, P.O. BOX 262674
+EMIRATES NBD AED ACCOUNT                                                                         UNITED ARAB EMIRATES
+P O BOX 2923, DUBAI , UAE
+CHEQUE PAYABLE IN FAVOR OF " PROCONNECT SUPPLY
+CHAIN LOGISTICS LLC"
+
+   Pay Ref REDGULDXB10 00106106
+
+Issued by: Sai Aravind
+TAX INVOICE 00106107                                                                                                                                  Page 1 of 1
+VAT #: 100245109200003
+          INVOICE DATE 30-Mar-24                                                                 REDINGTON GULF FZE (IT AFRICA)
+           CUSTOMER ID REDGULDXB10                                                               ATTENTION: THE ACCOUNTS PAYABLE MANAGER
+                SHIPMENT S00125128
+                                                                                                 507, 5TH FLOOR, ATTRIUM CENTRE
+                                                                                                 BUR DUBAI
+           CLIENT VAT # 100245109200003
+                DUE DATE 29-Apr-24
+                     TERMS 30 days from Inv. Date
+
+CONSIGNOR                                                                                        CONSIGNEE
+LENOVO INFORMATION PRODUCTS                                                                      REDINGTON GULF FZE
+IMPORT CUSTOMS BROKER                                           WEIGHT                           VOLUME                    CHARGEABLE           PACKAGES
+                                                                300.000 KG                                                 0.300 M3             1 PKG
+ORDER NUMBERS / OWNER'S REFERENCE
+7080056341-DUBAI-, KEN
+                                                                                                 OCEAN BILL OF LADING                  HOUSE BILL OF LADING
+                                                                                                                                       1058265903
+ORIGIN                                                                  ETD                      DESTINATION                                        ETA
+CNSHE = Shenyang Taoxian International Apt,                             21-Mar-24                AEDXB = Dubai, United Arab Emirates                22-Mar-24
+China
+INCOTERM                                                                                         ADDITIONAL TERMS
+FOB - Free On Board
+CHARGES
+DESCRIPTION                                                                                                                     VAT IN AED         CHARGES IN AED
+Handling Charges                                                                                                         Not   Applicable                     150.00
+Delivery Order Fee                                                                                                       Not   Applicable                     708.41
+Bill of Entry fee Export                                                                                                 Not   Applicable                     105.00
+Transportation Charges                                                                                                   Not   Applicable                     200.00
+
+
+
+
+TOTAL CHARGES
+Note: Please contact us within 7 days should there be any discrepancies
+Cheque's to be issued in favor of Proconnect Supply Chain Logistics LLC
+                                                                                                                          SUBTOTAL                      1,163.41
+"Unless otherwise stated, you shall be deemed to have been accepted to our general terms and conditions in our website
+https://proconnectlogistics.com/terms-and-conditions/, which shall form part of this document."
+                                                                                                                                 VAT                        0.00
+*** This is a system generated invoice, hence no signature required ***
+                                                                                                                          TOTAL AED                   1,163.41
+
+       CUSTOMER ID REDGULDXB10                                              Invoiced                  AED 1,163.41               BALANCE DUE           AED 1,163.41
+  PAYMENT METHOD                                                                                                                    DUE DATE              29-Apr-24
+Transfer Funds To:                                                                               Address:
+       Bank EMIRATES NBD                              SWIFT EBILAEAD                             PROCONNECT SUPPLY CHAIN LOGISTICS LLC - JAFZA
+                                                                                                 PLOT NO. S 30902, JEBEL ALI FREE ZONE SOUTH
+  Account AE140260001015258474901                                                                DUBAI, P.O. BOX 262674
+EMIRATES NBD AED ACCOUNT                                                                         UNITED ARAB EMIRATES
+P O BOX 2923, DUBAI , UAE
+CHEQUE PAYABLE IN FAVOR OF " PROCONNECT SUPPLY
+CHAIN LOGISTICS LLC"
+
+   Pay Ref REDGULDXB10 00106107
+
+Issued by: Sai Aravind
+TAX INVOICE 00106108                                                                                                                                   Page 1 of 1
+VAT #: 100245109200003
+          INVOICE DATE 30-Mar-24                                                                 REDINGTON GULF FZE (IT AFRICA)
+           CUSTOMER ID REDGULDXB10                                                               ATTENTION: THE ACCOUNTS PAYABLE MANAGER
+                SHIPMENT S00125317
+                                                                                                 507, 5TH FLOOR, ATTRIUM CENTRE
+                                                                                                 BUR DUBAI
+           CLIENT VAT # 100245109200003
+                DUE DATE 29-Apr-24
+                     TERMS 30 days from Inv. Date
+
+CONSIGNOR                                                                                        CONSIGNEE
+LENOVO GLOBAL TECHNOLOGY HK LIMITED                                                              REDINGTON GULF FZE
+IMPORT CUSTOMS BROKER                                           WEIGHT                           VOLUME                    CHARGEABLE           PACKAGES
+                                                                650.000 KG                                                 650.000 KG           6 PLT
+ORDER NUMBERS / OWNER'S REFERENCE
+7080056179-CHAD, 7080056167-CD
+                                                                                                 MAWB                                  HAWB
+                                                                                                                                       4914572458
+ORIGIN                                                                  ETD                      DESTINATION                                         ETA
+HKHKG = Hong Kong, Hong Kong                                            25-Mar-24                AEDXB = Dubai, United Arab Emirates                 26-Mar-24
+INCOTERM                                                                                         ADDITIONAL TERMS
+FOB - Free On Board
+CHARGES
+DESCRIPTION                                                                                                                     VAT IN AED          CHARGES IN AED
+Handling Charges                                                                                                         Not   Applicable                   150.00
+Delivery Order Fee                                                                                                       Not   Applicable                   800.00
+Transportation Charges                                                                                                   Not   Applicable                   200.00
+Bill of Entry fee Export                                                                                                 Not   Applicable                   105.00
+
+
+
+
+TOTAL CHARGES
+Note: Please contact us within 7 days should there be any discrepancies
+Cheque's to be issued in favor of Proconnect Supply Chain Logistics LLC
+                                                                                                                          SUBTOTAL                       1,255.00
+"Unless otherwise stated, you shall be deemed to have been accepted to our general terms and conditions in our website
+https://proconnectlogistics.com/terms-and-conditions/, which shall form part of this document."
+                                                                                                                                 VAT                         0.00
+*** This is a system generated invoice, hence no signature required ***
+                                                                                                                          TOTAL AED                    1,255.00
+
+       CUSTOMER ID REDGULDXB10                                              Invoiced                  AED 1,255.00               BALANCE DUE           AED 1,255.00
+  PAYMENT METHOD                                                                                                                    DUE DATE              29-Apr-24
+Transfer Funds To:                                                                               Address:
+       Bank EMIRATES NBD                              SWIFT EBILAEAD                             PROCONNECT SUPPLY CHAIN LOGISTICS LLC - JAFZA
+                                                                                                 PLOT NO. S 30902, JEBEL ALI FREE ZONE SOUTH
+  Account AE140260001015258474901                                                                DUBAI, P.O. BOX 262674
+EMIRATES NBD AED ACCOUNT                                                                         UNITED ARAB EMIRATES
+P O BOX 2923, DUBAI , UAE
+CHEQUE PAYABLE IN FAVOR OF " PROCONNECT SUPPLY
+CHAIN LOGISTICS LLC"
+
+   Pay Ref REDGULDXB10 00106108
+
+Issued by: Sai Aravind
+TAX INVOICE 00106397                                                                                                                                  Page 1 of 1
+VAT #: 100245109200003
+          INVOICE DATE 31-Mar-24                                                                 REDINGTON GULF FZE (IT AFRICA)
+           CUSTOMER ID REDGULDXB10                                                               ATTENTION: THE ACCOUNTS PAYABLE MANAGER
+                SHIPMENT S00125713
+                                                                                                 507, 5TH FLOOR, ATTRIUM CENTRE
+                                                                                                 BUR DUBAI
+           CLIENT VAT # 100245109200003
+                DUE DATE 30-Apr-24
+                     TERMS 30 days from Inv. Date
+
+CONSIGNOR                                                                                        CONSIGNEE
+KERRY LOGISTICS                                                                                  LUC VAN LEEUWEN
+GOODS DESCRIPTION
+DELL ORDERS:1000881181,1000881177,1000881179, 1000881178,1000881176
+IMPORT CUSTOMS BROKER                                           WEIGHT                           VOLUME                    CHARGEABLE          PACKAGES
+                                                                687.000 KG                       4.730 M3                  788.400 KG          3 PLT
+ORDER NUMBERS / OWNER'S REFERENCE
+7080054939
+                                                                                                 MAWB                                 HAWB
+                                                                                                                                      7080054939
+ORIGIN                                                                  ETD                      DESTINATION                                        ETA
+NLAMS = Amsterdam, Netherlands                                                                   NLAMS = Amsterdam, Netherlands
+INCOTERM                                                                                         ADDITIONAL TERMS
+
+
+CHARGES
+DESCRIPTION                                                                                                                   VAT IN AED           CHARGES IN AED
+Ex-Works Charges 0.35/ PERKG                                                                                             Not Applicable                   1,720.80
+
+
+
+
+TOTAL CHARGES
+Note: Please contact us within 7 days should there be any discrepancies
+Cheque's to be issued in favor of Proconnect Supply Chain Logistics LLC
+                                                                                                                          SUBTOTAL                        1,720.80
+"Unless otherwise stated, you shall be deemed to have been accepted to our general terms and conditions in our website
+https://proconnectlogistics.com/terms-and-conditions/, which shall form part of this document."
+                                                                                                                               VAT                            0.00
+*** This is a system generated invoice, hence no signature required ***
+                                                                                                                          TOTAL AED                   1,720.80
+
+       CUSTOMER ID REDGULDXB10                                              Invoiced                  AED 1,720.80             BALANCE DUE            AED 1,720.80
+  PAYMENT METHOD                                                                                                                  DUE DATE               30-Apr-24
+Transfer Funds To:                                                                               Address:
+       Bank EMIRATES NBD                              SWIFT EBILAEAD                             PROCONNECT SUPPLY CHAIN LOGISTICS LLC - JAFZA
+                                                                                                 PLOT NO. S 30902, JEBEL ALI FREE ZONE SOUTH
+  Account AE140260001015258474901                                                                DUBAI, P.O. BOX 262674
+EMIRATES NBD AED ACCOUNT                                                                         UNITED ARAB EMIRATES
+P O BOX 2923, DUBAI , UAE
+CHEQUE PAYABLE IN FAVOR OF " PROCONNECT SUPPLY
+CHAIN LOGISTICS LLC"
+
+   Pay Ref REDGULDXB10 00106397
+
+Issued by: Manoj S
+TAX INVOICE 00106399                                                                                                                                  Page 1 of 1
+VAT #: 100245109200003
+          INVOICE DATE 31-Mar-24                                                                 REDINGTON GULF FZE (IT AFRICA)
+           CUSTOMER ID REDGULDXB10                                                               ATTENTION: THE ACCOUNTS PAYABLE MANAGER
+                SHIPMENT S00125717
+                                                                                                 507, 5TH FLOOR, ATTRIUM CENTRE
+                                                                                                 BUR DUBAI
+           CLIENT VAT # 100245109200003
+                DUE DATE 30-Apr-24
+                     TERMS 30 days from Inv. Date
+
+CONSIGNOR                                                                                        CONSIGNEE
+KERRY LOGISTICS                                                                                  RALO SHIPPING PV
+GOODS DESCRIPTION
+DELL ORDERS:1001363598,1001363599,1001363597
+IMPORT CUSTOMS BROKER                                           WEIGHT                           VOLUME                    CHARGEABLE          PACKAGES
+                                                                175.000 KG                                                 175.000 KG          1 PLT
+ORDER NUMBERS / OWNER'S REFERENCE
+7080055543
+                                                                                                 MAWB                                 HAWB
+                                                                                                                                      7080055543
+ORIGIN                                                                  ETD                      DESTINATION                                        ETA
+NLAMS = Amsterdam, Netherlands                                                                   NLAMS = Amsterdam, Netherlands
+INCOTERM                                                                                         ADDITIONAL TERMS
+
+
+CHARGES
+DESCRIPTION                                                                                                                   VAT IN AED           CHARGES IN AED
+Ex-Works Charges 0.35/ PERKG                                                                                             Not Applicable                     234.72
+
+BASIC EUR 75                                                                                                             Not Applicable                     303.00
+
+HANDLING EUR 75                                                                                                          Not Applicable                     303.00
+
+
+
+
+TOTAL CHARGES
+Note: Please contact us within 7 days should there be any discrepancies
+Cheque's to be issued in favor of Proconnect Supply Chain Logistics LLC
+                                                                                                                          SUBTOTAL                          840.72
+"Unless otherwise stated, you shall be deemed to have been accepted to our general terms and conditions in our website
+https://proconnectlogistics.com/terms-and-conditions/, which shall form part of this document."
+                                                                                                                               VAT                            0.00
+*** This is a system generated invoice, hence no signature required ***
+                                                                                                                          TOTAL AED                       840.72
+
+       CUSTOMER ID REDGULDXB10                                              Invoiced                     AED 840.72            BALANCE DUE                AED 840.72
+  PAYMENT METHOD                                                                                                                  DUE DATE                 30-Apr-24
+Transfer Funds To:                                                                               Address:
+       Bank EMIRATES NBD                              SWIFT EBILAEAD                             PROCONNECT SUPPLY CHAIN LOGISTICS LLC - JAFZA
+                                                                                                 PLOT NO. S 30902, JEBEL ALI FREE ZONE SOUTH
+  Account AE140260001015258474901                                                                DUBAI, P.O. BOX 262674
+EMIRATES NBD AED ACCOUNT                                                                         UNITED ARAB EMIRATES
+P O BOX 2923, DUBAI , UAE
+CHEQUE PAYABLE IN FAVOR OF " PROCONNECT SUPPLY
+CHAIN LOGISTICS LLC"
+
+   Pay Ref REDGULDXB10 00106399
+
+Issued by: Manoj S
+TAX INVOICE 00106403                                                                                                                                  Page 1 of 1
+VAT #: 100245109200003
+          INVOICE DATE 31-Mar-24                                                                 REDINGTON GULF FZE (IT AFRICA)
+           CUSTOMER ID REDGULDXB10                                                               ATTENTION: THE ACCOUNTS PAYABLE MANAGER
+                SHIPMENT S00125718
+                                                                                                 507, 5TH FLOOR, ATTRIUM CENTRE
+                                                                                                 BUR DUBAI
+           CLIENT VAT # 100245109200003
+                DUE DATE 30-Apr-24
+                     TERMS 30 days from Inv. Date
+
+CONSIGNOR                                                                                        CONSIGNEE
+KERRY LOGISTICS                                                                                  RALO SHIPPING PV
+GOODS DESCRIPTION
+DE[L ORDERS: 1001532982
+IMPORT CUSTOMS BROKER                                           WEIGHT                           VOLUME                    CHARGEABLE          PACKAGES
+                                                                263.000 KG                       2.724 M3                  454.000 KG          2 PLT
+ORDER NUMBERS / OWNER'S REFERENCE
+7080055712
+                                                                                                 MAWB                                 HAWB
+                                                                                                                                      7080055712
+ORIGIN                                                                  ETD                      DESTINATION                                        ETA
+NLAMS = Amsterdam, Netherlands                                                                   NLAMS = Amsterdam, Netherlands
+INCOTERM                                                                                         ADDITIONAL TERMS
+
+
+CHARGES
+DESCRIPTION                                                                                                                   VAT IN AED           CHARGES IN AED
+EXW 0.35/ PERKG                                                                                                          Not Applicable                    641.96
+
+BASIC EUR 75                                                                                                             Not Applicable                    303.00
+
+HANDLING EUR 75                                                                                                          Not Applicable                    303.00
+
+
+
+
+TOTAL CHARGES
+Note: Please contact us within 7 days should there be any discrepancies
+Cheque's to be issued in favor of Proconnect Supply Chain Logistics LLC
+                                                                                                                          SUBTOTAL                        1,247.96
+"Unless otherwise stated, you shall be deemed to have been accepted to our general terms and conditions in our website
+https://proconnectlogistics.com/terms-and-conditions/, which shall form part of this document."
+                                                                                                                               VAT                            0.00
+*** This is a system generated invoice, hence no signature required ***
+                                                                                                                          TOTAL AED                   1,247.96
+
+       CUSTOMER ID REDGULDXB10                                              Invoiced                  AED 1,247.96             BALANCE DUE            AED 1,247.96
+  PAYMENT METHOD                                                                                                                  DUE DATE               30-Apr-24
+Transfer Funds To:                                                                               Address:
+       Bank EMIRATES NBD                              SWIFT EBILAEAD                             PROCONNECT SUPPLY CHAIN LOGISTICS LLC - JAFZA
+                                                                                                 PLOT NO. S 30902, JEBEL ALI FREE ZONE SOUTH
+  Account AE140260001015258474901                                                                DUBAI, P.O. BOX 262674
+EMIRATES NBD AED ACCOUNT                                                                         UNITED ARAB EMIRATES
+P O BOX 2923, DUBAI , UAE
+CHEQUE PAYABLE IN FAVOR OF " PROCONNECT SUPPLY
+CHAIN LOGISTICS LLC"
+
+   Pay Ref REDGULDXB10 00106403
+
+Issued by: Manoj S
+TAX INVOICE 00106404                                                                                                                                   Page 1 of 1
+VAT #: 100245109200003
+          INVOICE DATE 31-Mar-24                                                                 REDINGTON GULF FZE (IT AFRICA)
+           CUSTOMER ID REDGULDXB10                                                               ATTENTION: THE ACCOUNTS PAYABLE MANAGER
+                SHIPMENT S00125720
+                                                                                                 507, 5TH FLOOR, ATTRIUM CENTRE
+                                                                                                 BUR DUBAI
+           CLIENT VAT # 100245109200003
+                DUE DATE 30-Apr-24
+                     TERMS 30 days from Inv. Date
+
+CONSIGNOR                                                                                        CONSIGNEE
+KERRY LOGISTICS                                                                                  EV CARGO AMS
+GOODS DESCRIPTION
+DELL ORDERS:1001635545,1001635543,1001635544, 1001688664
+IMPORT CUSTOMS BROKER                                           WEIGHT                           VOLUME                    CHARGEABLE             PACKAGES
+                                                                426.000 KG                                                 426.000 KG             1 PLT
+ORDER NUMBERS / OWNER'S REFERENCE
+7080055800, 7080055866
+                                                                                                 MAWB                                 HAWB
+                                                                                                                                      S00125720
+ORIGIN                                                                  ETD                      DESTINATION                                         ETA
+NLAMS = Amsterdam, Netherlands                                                                   NLAMS = Amsterdam, Netherlands
+INCOTERM                                                                                         ADDITIONAL TERMS
+
+
+CHARGES
+DESCRIPTION                                                                                                                   VAT IN AED            CHARGES IN AED
+EXW      0.35/ PERKG                                                                                                     Not Applicable                      512.43
+
+BASIC EUR 75                                                                                                             Not Applicable                      303.00
+
+HANDLING EUR 75                                                                                                          Not Applicable                      303.00
+
+
+
+
+TOTAL CHARGES
+Note: Please contact us within 7 days should there be any discrepancies
+Cheque's to be issued in favor of Proconnect Supply Chain Logistics LLC
+                                                                                                                          SUBTOTAL                         1,118.43
+"Unless otherwise stated, you shall be deemed to have been accepted to our general terms and conditions in our website
+https://proconnectlogistics.com/terms-and-conditions/, which shall form part of this document."
+                                                                                                                               VAT                             0.00
+*** This is a system generated invoice, hence no signature required ***
+                                                                                                                          TOTAL AED                    1,118.43
+
+       CUSTOMER ID REDGULDXB10                                              Invoiced                  AED 1,118.43             BALANCE DUE             AED 1,118.43
+  PAYMENT METHOD                                                                                                                  DUE DATE                30-Apr-24
+Transfer Funds To:                                                                               Address:
+       Bank EMIRATES NBD                              SWIFT EBILAEAD                             PROCONNECT SUPPLY CHAIN LOGISTICS LLC - JAFZA
+                                                                                                 PLOT NO. S 30902, JEBEL ALI FREE ZONE SOUTH
+  Account AE140260001015258474901                                                                DUBAI, P.O. BOX 262674
+EMIRATES NBD AED ACCOUNT                                                                         UNITED ARAB EMIRATES
+P O BOX 2923, DUBAI , UAE
+CHEQUE PAYABLE IN FAVOR OF " PROCONNECT SUPPLY
+CHAIN LOGISTICS LLC"
+
+   Pay Ref REDGULDXB10 00106404
+
+Issued by: Manoj S
+
